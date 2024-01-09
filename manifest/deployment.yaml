@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-        - image: k175jp/go-server-ci
+        - image: k175/go-server-ci
           name: go-server-ci
